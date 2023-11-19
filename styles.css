@@ -1,2 +1,36 @@
 
 /* Your CSS Code here. */
+
+
+/* Your CSS Code here. */
+.holder1
+{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.holder2
+{
+	display:flex;
+	flex-wrap:wrap;
+justify-content:center;
+}
+.item1
+{
+	width:100px;
+	height:100px;
+	background-color:green;
+}
+.item2
+{
+	width:100px;
+	height:100px;
+	background-color:red;
+}
+
+.item3
+{
+	width:100px;
+	height:100px;
+	background-color:blue;
+}
